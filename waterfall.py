@@ -4,7 +4,7 @@ a = -0.2
 b = 1.5
 C = 24
 def quadratic_weather_model(time) :
-"''"Predict temperature using quadratic equation."''"
+"""Predict temperature using quadratic equation."""
 return a * (time ** 2) + b * time + c
 print("=== WATERFALL MODE ==")
 # Plan -> Develop -> Test -> Deliver (one cycle)
