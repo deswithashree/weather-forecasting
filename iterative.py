@@ -1,4 +1,4 @@
-# WEATHER MODELING - Different Development Modes
+# ITERATIVE MODELING - Different Development Modes
 # Coefficients for quadratic model
 a = -0.2
 b = 1.5
